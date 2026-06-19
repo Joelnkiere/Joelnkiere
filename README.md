@@ -11,7 +11,7 @@ Je suis Joel Nkiere, développeur full-stack passionné de Kinshasa, RDC, qui cr
 
 -💬 Demande-moi sur React, Tailwind, le design web ou la scène tech à Kinshasa.
 
--📫 Contacte-moi : nkierejoe@gmail.com ou +243 825930444 (ou via mon portfolio: https://joelnkiere.netlify.app).
+-📫 Contacte-moi : nkierejoe@gmail.com (ou via mon portfolio: https://joelnkiere.netlify.app).
 
 -😄 Pronoms : il/lui
 Merci de visiter ! Connectons-nous et construisons quelque chose de génial. 🚀
